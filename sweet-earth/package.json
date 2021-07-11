@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "axios": "^0.20.0",
+    "cheerio": "^1.0.0-rc.3",
+    "slugify": "^1.4.5"
+  }
+}
