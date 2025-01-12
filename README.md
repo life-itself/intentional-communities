@@ -2,7 +2,7 @@
 
 An open database of intentional communities. Research oriented and largely historical.
 
-For a current database of intentional communities see https://ic.org/
+For a database of current intentional communities see https://ic.org/
 
 ## Oved: Two Hundred Years of American Communes
 
