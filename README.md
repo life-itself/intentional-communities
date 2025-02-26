@@ -2,7 +2,9 @@
 
 An open database of intentional communities. Research oriented and largely historical.
 
-For a database of current intentional communities see https://ic.org/
+For context on this project see https://github.com/orgs/life-itself/discussions/144 (May 2022). Also feel this project could also expand to include utopian writing and ideas in general - see https://github.com/orgs/life-itself/discussions/523
+
+NB: this is not an attempt to create a database of current communities. For that, see e.g. https://ic.org/
 
 ## Oved: Two Hundred Years of American Communes
 
