@@ -1,0 +1,19 @@
+{
+  "nav": {
+    "title": "Intentional Communities Wiki",
+    "social": [
+      {
+        "label": "github",
+        "name": "GitHub Profile",
+        "href": "https://github.com/life-itself/intentional-communities"
+      },
+      {
+        "label": "twitter",
+        "name": "Follow me on Twitter",
+        "href": "https://x.com/forlifeitself"
+      }
+    ]
+  },
+  "sideBar": true,
+  "showEditLink": true
+}
