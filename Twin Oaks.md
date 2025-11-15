@@ -12,6 +12,9 @@ https://www.twinoaks.org/walden-two-community?showall=1
 
 Whole bunch more further down that doc. Big point that Twin Oaks started without much money and this was a big issue - and something completely missing in the discussion in Walden Two book.
 
+> Twin Oaks hoped to attract people who believed in behaviorism as the cure to all social ills, who believed Skinner's Walden Two vision to be the best possible application of behaviorism, and who were willing to tolerate the initial rough living conditions of Twin Oaks while giving the community all their income and assets. **This kind of prospective member was in surprisingly short supply**. It is perhaps by coincidence that the year of Twin Oaks' founding happened to be 1967. Due to that fortuitous timing, Twin Oaks had the mixed blessing of having an ocean of people outside the gates who were ready and willing to start living an alternative lifestyle, dirt and poverty be damned. These people were the hippies: young, idealistic, alienated from mainstream society, and semi-cohesive in their beliefs. **This may have seemed like a gift from heaven, except for one catch: hippie ideology differed greatly from the ideology of Walden Two**. The fact that there were some areas where these two ideologies overlapped meant that these newcomers were semi-compatible with Twin Oaks. That degree of compatibility meant that Twin Oaks had to lay aside it's apprehension and accept them into the community, given how badly new members were needed. **The presence, and soon dominance, of this hippie ideology assured the end of the Walden Two vision.**
+
+
 ## BBC4 Documentary
 
 https://www.youtube.com/watch?v=jzb8bDfLrOU
