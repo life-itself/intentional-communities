@@ -2,6 +2,8 @@ Los Horcones is an intentional community in Sonora state in Mexico that is run o
 
 It is noteworthy for being the major other Walden two Community other than Twinoaks, and more exactly following the more interesting aspects of Walden 2 than Twin Oaks eg in its use of behaviour ology and explicit focus on rapid iterative cultural evolution.
 
+![](https://noro.mx/wp-content/uploads/2021/11/panoramica-los-horcones.jpg)
+
  https://en.wikipedia.org/wiki/Los_Horcones
 
 https://web.archive.org/web/20090411052420/http://loshorcones.org/start/experimentalculture.html - general overview but no actual examples of their cultural learning.
