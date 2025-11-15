@@ -1,6 +1,6 @@
 Los Horcones is an intentional community in Sonora state in Mexico that is run on Walden two lines. 
 
-It is noteworthy for being the major other Walden two Community other than Twinoaks, and more exactly following the more interesting aspects of Walden 2 than Twin Oaks eg in its use of behaviour ology and explicit focus on rapid iterative cultural evolution.
+It is noteworthy for being the major other Walden two Community other than [[Twin Oaks]], and more exactly following the more interesting aspects of Walden 2 than Twin Oaks eg in its use of behaviour ology and explicit focus on rapid iterative cultural evolution.
 
 ![](https://noro.mx/wp-content/uploads/2021/11/panoramica-los-horcones.jpg)
 
