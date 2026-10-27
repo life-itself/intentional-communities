@@ -18,19 +18,21 @@ https://www.monteverita.org/en/monte-verita/history
 > 
 > The Ticino came to represent the antithesis of the urbanised, industrialized north, a sanctuary for all kinds if idealist. From 1900 onwards Mount Monescia above Ascona became a pole of attraction for those seeking an "alternative" life. These reformers who sought a third way between the capitalist and communist blocks, eventually found a home in the region of the north Italian lakes.
 > 
-> ![](https://www.monteverita.org/media/1055/monte-verita-ascona_storia-01.jpg?crop=0.039506172839506172,0,0.07160493827160494,0&cropmode=percentage&width=900&height=675&rnd=131756968010000000)
+> <img width="900" height="675" alt="image" src="https://github.com/user-attachments/assets/6ac498da-1746-4759-a248-89755b00fb62" />
 > 
 > The founders came from all directions : Henry Oedenkoven from Antwerp, the pianist Ida Hofmann from Montenegro, the artist Gusto and the ex-officer Karl Gräser from Transylvania. United by a common ideal they settled on the "Mount of Truth" as they renamed Monte Monescia. Draped in loose flowing garnments and with long hair they worked in the gardens and fields, built spartan timber cabins and found relaxation in dancing and naked bathing, exposing their bodies to light, air, sun and water. Their diet excluded all animal foods and was based entirely on plants, vegetables and fruit. They workshipped nature, preaching its purity and interpreting it symbolically as the ultimate work of art: "Parsifal's meadow", "The rock of Valkyrie" and the "Harrassprung" were symbolic names which with time were adopted even by the local population of Ascona who had initially regarded the community with suspicion.
 > 
+> <img width="900" height="675" alt="image" src="https://github.com/user-attachments/assets/98968e8a-8c90-4fc3-9f45-d5714656ec86" />
+> 
 > Their social organisation based on the co-operative system and through which they strove to achieve the emancipation of women, self-criticism, new ways of cultivating mind and spirit and the unity of body and soul , can at the best be described as a Christian-communist community.
 > 
-> ![](https://www.monteverita.org/media/1045/monte-verita-ascona_storia-05.jpg?anchor=center&mode=crop&width=900&height=675&rnd=131756968570000000)
+> <img width="1920" height="1280" alt="image" src="https://github.com/user-attachments/assets/1adefb72-6658-4a83-acf9-304dff19222a" />
 > 
 > The intensity of the single ideals fused in this community was such that word of it soon spread across the whole of Europe and overseas, whilst gradually over the years the community itself became a sanatorium frequented by theosophists, reformers, anarchists, communists, socialdemocrats, psyco-analysts, followed by literary personalities, writers, poets, artists and finally emigrants of both world wars: Raphael Friedeberg, Prince Peter Kropotkin, Erich Mühsam who declared Ascona "the Republic of the Homeless", Otto Gross who planned a "School for the liberation of humanity", August Bebel, Karl Kautsky, Otto Braun, even perhaps Lenin and Trotzki, Hermann Hesse, Franziska Gräfin zu Reventlow, Else Lasker-Schüler, D.H Lawrence, Rudolf von Laban, Mary Wigman, Isadora Duncan, Hugo Ball, Hans Arp, Hans Richter, Marianne von Werefkin, Alexej von Jawlensky, Arthur Segal, El Lissitzky and many others.
 > 
 > After the departure of the founder for Brazil in 1920 there followed a brief bohemian period at the Monte Verità which lasted until the complex was purchased as a residence by the Baron von der Heydt, banker to the ex-Kaiser Willhelm II and one of the most important collectors of contemporary and non European art. The bohemian life continued in the village and in the Locarnese valleys from then on.
 > 
-> ![](https://www.monteverita.org/media/1052/monte-verita-ascona_storia-06.jpg?anchor=center&mode=crop&width=900&height=675&rnd=131756966720000000)
+> <img width="1920" height="1280" alt="image" src="https://github.com/user-attachments/assets/1eaba879-f0c7-48bd-8155-fba96ae1aa27" />
 > 
 > The Mount, now used as a Hotel and park, still maintains its almost magic power of attraction. Along with the proven magnetic anomalies of geological formations underlying Ascona, it is as if the mount preserves, hidden away out of sight, the sum of all the successful and unsuccessful attempts to breach the gap between the "I" and "we", and the striving towards an ideal creative society, thus making the Monte Verità a special scenic and climatic micro-paradise.
 > 
@@ -38,7 +40,7 @@ https://www.monteverita.org/en/monte-verita/history
 > 
 > Henry Oedenkoven built Casa Anatta as living quarters and reception rooms in the theosophist style with rounded corners everywhere, double timber walls, sliding doors, domed ceilings and huge windows with views of the landscape as supreme works of art, a large flat roof and sun-terrace.
 > 
-> ![](https://www.monteverita.org/media/1053/monte-verita-ascona_storia-08.jpg?anchor=center&mode=crop&width=900&height=675&rnd=131756967350000000)
+> <img width="1920" height="1280" alt="image" src="https://github.com/user-attachments/assets/95707d3d-3427-47cc-bea9-4dfc9ebe2421" />
 > 
 > In the mains rooms of this building Mary Wingman danced, Bebel, Kautsky and Martin Buber discussed, Ida Hofmann played Wagner and the community held its reunions. In 1926 the Baron von der Heydt converted Casa Anatta into a private residence and adorned it with his collection of African, Indian and Chinese art, now housed at Rietberg Museum, and a collection of Swiss carnival masks which is now in Washington. After the death of the Baron in 1964 the Casa Anatta, described by the architecture theorist Siegfried Giedion in 1929 as a perfect example of "liberated living", fell into disuse and dilapidation. In 1979 it was re-activated to house the Monte Verità exhibition and has been the History Museum of the Monte Verità since 1981.(Open to the public from April to October). In 1909 the Turinese architect Anselmo Secondo built the Villa Semiramis as a guest house and hotel. The Villa, clinging to the mountain side, presents many architectural characteristics of the Piedmont "Jugendstil" of which the triangular shutters are the most striking example. In 1970 work was carried out to remodernize the Villa, true to the original style, under the direction of the Ticinese architect Livio Vacchini.
 > 
